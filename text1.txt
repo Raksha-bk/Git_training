@@ -1,0 +1,2 @@
+Hello! this is text file1 
+Added content
